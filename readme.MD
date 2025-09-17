@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Devarajulu-Thota/Devarajulu-Thota/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/Devarajulu-Thota/Devarajulu-Thota/blob/main/git_banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Devarajulu Thota

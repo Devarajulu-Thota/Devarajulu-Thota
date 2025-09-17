@@ -2,74 +2,54 @@
   <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
 </div>
 
-# 👋 Hi, I'm Hari Krishna Palepu
+# 👋 Hi, I'm Devarajulu Thota
 
-### Software Engineer II – SRE @ JPMorgan Chase  
-🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
+### DevOps Engineer @ Sa.global 
+🚀 DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform 
 
-[![Topmate](https://img.shields.io/badge/Topmate-Book%20a%201:1-green?logo=meetup&style=flat)](https://topmate.io/hari_palepu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/haripalepu/)
-[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@hareepalepu)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:harikpalepu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/devarajulu-t/)
+[![Gmail](https://img.shields.io/badge/Email-devarajthota@gmail.com-red?logo=gmail&style=flat)](mailto:devarajthota@gmail.com)
 
 ---
 
-I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
+I'm a passionate **DevOps Engineer** with over **3+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS cloud environments.
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Cloud**: AWS, Azure, GAIA Cloud  
+- **Cloud**: AWS
 - **OS**: Linux, Windows
-- **CI/CD**: Azure DevOps, GitHub Actions, Jenkins, Jules  
-- **SCM**: GitHub, Bitbucket  
-- **IaC**: Terraform. Cloudformation  
+- **CI/CD**: Jenkins
+- **SCM**: GitHub  
+- **IaC**: Terraform
 - **Containers**: Docker, Kubernetes 
-- **Security & Scanning**: SonarQube, Snyk 
+- **Security & Scanning**: SonarQube 
 - **Arifactory**: Nexus, JFrog 
 - **Scripting**: Bash, Shell, Python  
-- **Monitoring**: Splunk, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor  
+- **Monitoring**: Prometheus, Grafana
 
 ---
 
 ### 🔧 What I Do
 
-- 🛠️ Build and manage infrastructure on **AWS** and **Azure** using **Terraform** for repeatable, secure provisioning  
-- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, delivering secure and efficient internal deployments  
-- 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps**, **GitHub Actions**, **Jenkins**, and **Jules**, reducing delivery friction  
-- 📃️ Manage codebases and collaboration with **GitHub** and **Bitbucket**, ensuring streamlined source control and peer workflows  
+- 🛠️ Build and manage infrastructure on **AWS** using **Terraform** for repeatable, secure provisioning  
+- 🚀 Design high-performance **CI/CD pipelines** using **AWS**, **Jenkins**, reducing delivery friction  
+- 📃️ Manage codebases and collaboration with **GitHub** ensuring streamlined source control and peer workflows  
 - 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
 - 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** and **JFrog Artifactory**  
-- 🔐 Secure cloud environments using **IAM**, **RBAC**, and **Azure Key Vault**, ensuring compliance and access control  
-- 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
+- 🔐 Secure cloud environments using **IAM**, **RBAC**, ensuring compliance and access control  
+- 📈 Ensure observability and performance with **Prometheus**, and **Grafana**, minimizing downtime
 
 ---
 
 ### 💼 Career Snapshot
 
-- 🏢 **JPMorgan Chase** – *Software Engineer II – SRE*  
-  Managing GAIA-based infrastructure with Kubernetes and Jules. Driving CI/CD and observability strategy across critical internal platforms.
-
-- 🏢 **Presidio** – *Senior DevOps Engineer*  
-  Led cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub Actions, Jenkins) on AWS, resulting in a 40% deployment time reduction.
-
-- 🏢 **CGI** – *Systems Engineer*  
-  Designed secure cloud infrastructure using AWS & Azure. Built CI/CD pipelines, implemented IaC, and improved uptime and efficiency.
-
-- 🏢 **Avineon** – *GIS Engineer*  
-  Developed spatial mapping solutions using AutoCAD. Delivered 24/7 monitoring and ensured data accuracy and map validation integrity.
-
+- 🏢 **Presidio** – *DevOps Engineer*  
+  Led cloud automation projects using Terraform, Docker, and CI/CD tools (Jenkins) on AWS, resulting in a 40% deployment time reduction.
+  
 ---
 
-### 📞 Book a 1:1 Session
-
-If you're looking to connect, discuss DevOps/SRE, get guidance, or collaborate:
-
-👉 [**Book a session with me on Topmate**](https://topmate.io/hari_palepu)  
-*(Mentoring • Project Guidance • Career Advice)*
-
----
 
 ## ⚙️ Skills Showcase
 

@@ -77,14 +77,5 @@ I'm a passionate **DevOps Engineer** with over **3+ years of experience** in bui
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarajulu-Thota&theme=dark&hide_border=false&layout=compact" />
 </div>
 
----
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/Devarajulu-Thota/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
 
 Thanks for visiting!

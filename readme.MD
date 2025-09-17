@@ -77,5 +77,6 @@ I'm a passionate **DevOps Engineer** with over **3+ years of experience** in bui
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarajulu-Thota&theme=dark&hide_border=false&layout=compact" />
 </div>
 
+---
 
 Thanks for visiting!

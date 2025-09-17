@@ -4,15 +4,15 @@
 
 # 👋 Hi, I'm Devarajulu Thota
 
-### DevOps Engineer @ Sa.global 
-🚀 DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform 
+### DevSecOps Engineer @ Sa.global 
+🚀 DevSecOps Engineer | AWS | CI/CD | Kubernetes | Terraform 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/devarajulu-t/)
 [![Gmail](https://img.shields.io/badge/Email-devarajthota@gmail.com-red?logo=gmail&style=flat)](mailto:devarajthota@gmail.com)
 
 ---
 
-I'm a passionate **DevOps Engineer** with over **3+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS cloud environments.
+I'm a passionate **DevSecOps Engineer** with over **3+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS cloud environments.
 
 ---
 
@@ -45,7 +45,7 @@ I'm a passionate **DevOps Engineer** with over **3+ years of experience** in bui
 
 ### 💼 Career Snapshot
 
-- 🏢 **Sa.global** – *DevOps Engineer*  
+- 🏢 **Sa.global** – *DevSecOps Engineer*  
   Led cloud automation projects using Terraform, Docker, and CI/CD tools (Jenkins) on AWS, resulting in a 40% deployment time reduction.
 
 ---

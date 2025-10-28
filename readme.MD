@@ -12,7 +12,7 @@
 
 ---
 
-I'm a passionate **DevOps Engineer** with over **3+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS cloud environments.
+I'm a passionate **DevOps Engineer** with over **5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS cloud environments.
 
 ---
 
@@ -47,7 +47,8 @@ I'm a passionate **DevOps Engineer** with over **3+ years of experience** in bui
 
 - 🏢 **Sa.global** – *DevOps Engineer*  
   Led cloud automation projects using Terraform, Docker, and CI/CD tools (Jenkins) on AWS, resulting in a 40% deployment time reduction.
-
+- 🏢 **Telligent** – *Associate DevOps Engineer*  
+  Led cloud automation projects using Terraform, Docker, and CI/CD tools (Jenkins) on AWS, resulting in a 40% deployment time reduction.
 ---
 
 
